@@ -1,1 +1,5 @@
-saved_models/
+saved_models/Data/
+*.jpg
+*.JPG
+*.png
+*.PNG
